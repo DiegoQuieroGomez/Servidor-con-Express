@@ -1,0 +1,20 @@
+[
+  {
+    "tittle": "teclado",
+    "price": 2000,
+    "thumbnail": "https://www.productosteclado.com",
+    "id": 1
+  },
+  {
+    "tittle": "teclado2",
+    "price": 8000,
+    "thumbnail": "https://www.productoteclado2.com",
+    "id": 2
+  },
+  {
+    "tittle": "mouse",
+    "price": 50000,
+    "thumbnail": "https://www.productomouseinala.com",
+    "id": 3
+  }
+]
