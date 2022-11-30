@@ -1,5 +1,4 @@
 const fs = require('fs')
-export{Contenedor}
 
 class Contenedor{
     constructor(nombre){
@@ -98,6 +97,8 @@ class Contenedor{
         .catch(error => console.log(error))
 
     }
+
+    
 }
 
 const contenedor1 = new Contenedor('Productos.txt')
